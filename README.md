@@ -10,3 +10,7 @@ Lista de colaboradores
 ~~Gabriel~~
 ---
 Colocar apellido de participantes con el pull request
+
+UTIA
+LUNGU
+SALAS
