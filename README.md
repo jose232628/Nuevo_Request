@@ -4,8 +4,8 @@
 ---
 #Participantes
 ---
-Jose Armando
-Lucho
-Gabriel
+###Jose Armando
+###Lucho
+###Gabriel
 ---
 #Colar apellido de participantes con el pull request
