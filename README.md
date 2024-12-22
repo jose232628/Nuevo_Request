@@ -3,10 +3,10 @@
 ---
 Pull Request
 ---
-Participantes
+Lista de colaboradores
 ---
 -Jose Armando
 -Lucho
 ~~Gabriel~~
 ---
-Colar apellido de participantes con el pull request
+Colocar apellido de participantes con el pull request
