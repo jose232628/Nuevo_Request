@@ -1,12 +1,12 @@
 # Nuevo_Request
 2ASIR
 ---
-#Pull Request
+Pull Request
 ---
-#Participantes
+Participantes
 ---
 -Jose Armando
 -Lucho
 ~~Gabriel~~
 ---
-#Colar apellido de participantes con el pull request
+Colar apellido de participantes con el pull request
